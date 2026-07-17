@@ -203,7 +203,7 @@ heart-disease-prediction/
       prediction.png
 ```
 
----
+
 
 # ⚙️ Installation
 
